@@ -1,3 +1,4 @@
+const board = document.querySelector('.board');
 for(let rows = 0; rows < 8; rows++) {
     let boxColour;
     let boxStartColourWhite = rows % 2 === 0? true:false;
