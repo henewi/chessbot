@@ -14,3 +14,5 @@
 //         board.append(box);
 //     }
 // }
+
+// var board = Chessboard('myBoard');
